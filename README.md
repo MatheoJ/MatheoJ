@@ -1,5 +1,3 @@
-# 👋 Welcome to My GitHub Profile!
-
 ## Mathéo Joseph
 
 🎮 **Game & Software Developer | C++ Enthusiast | 3D Applications & Rendering**

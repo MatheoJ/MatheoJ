@@ -2,7 +2,7 @@
 
 🎮 **Game & Software Developer | C++ Enthusiast | 3D Applications & Rendering**
 
-I am currently pursuing a **Master’s in Computer Science at Polytechnique Montréal**, specializing in **C++ development** with a passion for **game engines, 3D rendering, and interactive applications**.
+I am currently pursuing a **Master’s in Computer Science at Polytechnique Montréal**, specializing in **C++ development** with a passion for **game engines, 3D rendering, and real time interactive applications**.
 ## 🛠️ Technical Skills
 
 - **Languages:** C++, C, C#, Python, Java, JavaScript

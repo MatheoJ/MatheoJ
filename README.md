@@ -21,6 +21,7 @@ I am currently pursuing a **Master’s in Computer Science at Polytechnique Mont
 - 🎮 **Ubisoft Creative Game Jam** – NAD
 - 🚀 **Ludumdare 55** - Behaviour Ineractive
 - 🎲 **Scientific Game Jam** – Indie Asylum *(Best Game on Disinformation)*
+- 💻 **Ray Tracing Rendering Contest (2nd place)** - ETS
 - 🏆 **Ubisoft Game Lab Competition 2025** – Developing a **full video game prototype** in **2 months**
 
 ## 📫 Connect with Me
